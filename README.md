@@ -47,6 +47,7 @@
     <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
     <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black">
 </p>
 
 ### 🗄️ Databases and cloud hosting
@@ -64,6 +65,8 @@
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FE7A16.svg?logo=postman&logoColor=white">
     <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google-sheets&logoColor=white">
+    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white">
+    <img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000.svg?logo=webstorm&logoColor=white">
 </p>
 
 ## 📊 Github stats
